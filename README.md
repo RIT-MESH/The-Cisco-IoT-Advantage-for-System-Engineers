@@ -1,7 +1,6 @@
 # The-Cisco-IoT-Advantage-for-System-Engineers
-# Cisco IoT Advantage for System Engineers (700‑841 IOTASE) – Study Guide
 
-> **Purpose** — This README condenses the official blueprint and recommended study areas for Cisco’s *IoT Advantage for System Engineers* certification exam (700‑841 IOTASE). Use it as a quick‑reference when planning your learning path or curating exam‑prep resources.
+> **Purpose** — Use it as a quick‑reference when planning your learning path or curating exam‑prep resources.
 
 ---
 
