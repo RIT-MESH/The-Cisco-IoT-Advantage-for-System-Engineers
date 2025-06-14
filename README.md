@@ -105,7 +105,7 @@ Design goals: deterministic latency, high availability (PRP/HSR), and scalable Q
 
 ## 📚 Further Reading
 
-* Cisco IOTASE Exam Official Page ↗️
+* [Cisco IOTASE Exam Official Page](https://www.cisco.com/site/us/en/learn/training-certifications/exams/iotase.html)
 * [Cisco DevNet IoT Developer Center](https://developer.cisco.com/iot)
 * “Designing Industrial IoT Networks” – Cisco Press
 * IEC 62443 & NIST SP 800‑82 – Industrial security frameworks
