@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/07bf7caa-02ce-4355-a8db-1e80e471074e
 
 ## 1.1 Cisco Industrial Switches Portfolio
 
-The Cisco Industrial Ethernet (IE) Switches are ruggedized, secure, and scalable networking solutions designed for harsh industrial environments such as manufacturing, utilities, transportation, oil and gas, mining, and smart cities. These switches extend enterprise-grade connectivity to operational technology (OT) networks, ensuring reliability, security, and performance in extreme conditions. The portfolio includes a range of series tailored to specific industrial use cases:
+The Cisco Industrial Ethernet (IE) Switches are **ruggedized**, **secure**, and **scalable networking solutions** designed for harsh industrial environments such as manufacturing, utilities, transportation, oil and gas, mining, and smart cities. These switches extend enterprise-grade connectivity to operational technology (OT) networks, ensuring reliability, security, and performance in extreme conditions. The portfolio includes a range of series tailored to specific industrial use cases:
 
 - **IE 1000 Series**: Compact, lightly managed switches for small-scale deployments in space-constrained environments. Ideal for smart cities, machine building, and factory automation. They support 5–10 Fast Ethernet (FE) or Gigabit Ethernet (GE) ports with Power over Ethernet (PoE) options.
 - **IE 2000 Series**: Modular, Layer 2 switches with flexible port configurations for industrial automation. They offer 4–26 FE/GE ports, PoE, and rugged designs for utilities and transportation.
