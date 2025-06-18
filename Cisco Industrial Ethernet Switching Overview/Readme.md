@@ -2,6 +2,9 @@
 
 This document provides a comprehensive overview of the Cisco Industrial Ethernet Switching portfolio, detailing the switch series, their capabilities, power supply options, and management configurations. It is intended for network engineers, system administrators, and IoT/OT professionals deploying secure and scalable industrial networks.
 
+### 📘 日本語の説明 
+https://github.com/user-attachments/assets/07bf7caa-02ce-4355-a8db-1e80e471074e
+
 ## 1.1 Cisco Industrial Switches Portfolio
 
 The Cisco Industrial Ethernet (IE) Switches are ruggedized, secure, and scalable networking solutions designed for harsh industrial environments such as manufacturing, utilities, transportation, oil and gas, mining, and smart cities. These switches extend enterprise-grade connectivity to operational technology (OT) networks, ensuring reliability, security, and performance in extreme conditions. The portfolio includes a range of series tailored to specific industrial use cases:
