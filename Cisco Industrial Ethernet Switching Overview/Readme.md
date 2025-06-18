@@ -4,6 +4,13 @@ This document provides a comprehensive overview of the Cisco Industrial Ethernet
 
 ### 📘 日本語の説明 
 https://github.com/user-attachments/assets/07bf7caa-02ce-4355-a8db-1e80e471074e
+### 📘 English Explanation
+
+
+https://github.com/user-attachments/assets/6f83ac92-158c-4449-b179-819ea29b2e17
+
+
+
 
 ## 1.1 Cisco Industrial Switches Portfolio
 
